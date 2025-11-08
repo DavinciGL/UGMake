@@ -1,4 +1,4 @@
-# GMake
+# UGMake
 Lightning fast build automation system written in GO and similar to Make
 
 **It is primarily written for Windows and is tested in a Windows enviroment but does not use any kernel features so Linux SHOULD work too.**
@@ -57,3 +57,7 @@ task build:
         $compiler build -o bin/c.exe c.go
     PRINT = "Build complete."
 
+    # UNDER THE HOOD
+<img width="721" height="571" alt="gmakediagram" src="https://github.com/user-attachments/assets/640c5c12-7237-4dc6-8648-13b44cc0f8a8" />
+
+    
