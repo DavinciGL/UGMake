@@ -1,0 +1,20 @@
+UGmake
+
+Unified GMake for all Systems!
+
+Unified GMake is a much more advanced and larger addition to the original
+GMake Software on GitHub.
+
+This is for big or even huge codebases that require more advanced features.
+
+If your just making a normal program like a CLI tool or Simple Programs, then we recommend using normal GMake as it will be simpler and faster for you and less bloated as you dont need all the features.
+
+UGMake is built on the standard GMake just with more features, but if max speed is your thing, go with GMake not UGMake.
+
+UGMake is good for huge codebases because it provides automatic checksum verifiers, if put in a GMake script. This is good to maintain code safety and such, but this can also be way slower than normal GMake which is why normal GMake is optimal for normal programs that don't need much security checks.
+
+
+Required Packages:
+
+Ruby
+Go (to compile the source code)
