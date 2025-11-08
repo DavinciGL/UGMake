@@ -16,7 +16,10 @@ You can do code checksum validations by putting:
 verify(<taskname>)
 in your task, replace <taskname> with the task its inside of.
 
-    # UNDER THE HOOD
+We reccomend looking over your Generated GMake file and make sure your happy with it as it only makes a skeleton for the project to start you off.
+
+
+ # UNDER THE HOOD
 <img width="721" height="571" alt="gmakediagram" src="https://github.com/user-attachments/assets/640c5c12-7237-4dc6-8648-13b44cc0f8a8" />
 
     
