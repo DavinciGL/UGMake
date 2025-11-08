@@ -1,9 +1,0 @@
-# Go build tasks
-task build_main:
-go build main.go
-verify(build_main)
-
-task build_parser:
-go build parser.go
-
-
